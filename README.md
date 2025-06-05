@@ -10,7 +10,7 @@ In this exercise you will:
 * **Automate** search/replace interactively and non‑interactively in **Vim**.
 * **Modularize** C code by defining functions across separate files and **link** them together manually.
 
-**Important:** Start a stopwatch when you begin and work uninterruptedly for **90 minutes**. When time is up, stop immediately and record exactly where you paused.
+**Important:** Start a stopwatch when you begin and work uninterruptedly for **90 minutes**. When time is up, stop immediately and record exactly where you paused. 
 
 ---
 
